@@ -1,0 +1,85 @@
+data,timeStamp,bacia,subBacia,fonte,avg
+17/01/2021,2021-01-17,Grande,Agua Vermelha,True,12.4
+17/01/2021,2021-01-17,Grande,Capao Escuro,True,0.0
+17/01/2021,2021-01-17,Grande,Camargos,True,5.7
+17/01/2021,2021-01-17,Grande,Euclides da Cunha,True,0.0
+17/01/2021,2021-01-17,Grande,Funil,True,0.2
+17/01/2021,2021-01-17,Grande,Furnas,True,4.9
+17/01/2021,2021-01-17,Grande,Marimbondo,True,2.0
+17/01/2021,2021-01-17,Grande,Passagem,True,8.1
+17/01/2021,2021-01-17,Grande,Paraguacu,True,2.0
+17/01/2021,2021-01-17,Grande,Porto dos Buenos,True,1.5
+17/01/2021,2021-01-17,Grande,Porto Colombia,True,9.2
+17/01/2021,2021-01-17,Iguacu,Foz do Areia,True,2.2
+17/01/2021,2021-01-17,Iguacu,Jordao Segredo,True,0.4
+17/01/2021,2021-01-17,Iguacu,Santa Clara,True,3.0
+17/01/2021,2021-01-17,Iguacu,Salto Caxias,True,19.3
+17/01/2021,2021-01-17,Iguacu,Uniao da Vitoria,True,3.2
+17/01/2021,2021-01-17,Madeira,AmaruMayu,True,5.999973642037786
+17/01/2021,2021-01-17,Madeira,Dardanelos,True,12.226376488095234
+17/01/2021,2021-01-17,Madeira,GuajaraMirim,True,6.178575
+17/01/2021,2021-01-17,Madeira,Guapore,True,5.235416666666667
+17/01/2021,2021-01-17,Madeira,Jirau,True,5.170496323529413
+17/01/2021,2021-01-17,Madeira,PrincipeDaBeira,True,8.244176306528901
+17/01/2021,2021-01-17,Madeira,RondonII,True,3.958603896103897
+17/01/2021,2021-01-17,Madeira,Samuel,True,4.185546874999999
+17/01/2021,2021-01-17,Madeira,SantoAntonio,True,10.809866240530305
+17/01/2021,2021-01-17,OSul,Castro Alves,True,17.1
+17/01/2021,2021-01-17,OSul,C.Cachoeira,True,5.3
+17/01/2021,2021-01-17,OSul,Dona Francisca,True,34.4
+17/01/2021,2021-01-17,OSul,Ernestina,True,9.6
+17/01/2021,2021-01-17,OSul,PassoReal,True,13.5
+17/01/2021,2021-01-17,OSul,Salto Pilao,True,7.1
+17/01/2021,2021-01-17,OSul,14 de Julho,True,28.3
+17/01/2021,2021-01-17,Parana,Balsa Santa Maria,True,41.2
+17/01/2021,2021-01-17,Parana,Florida Estrada,True,1.1
+17/01/2021,2021-01-17,Parana,Fazenda Buriti,True,11.1
+17/01/2021,2021-01-17,Parana,Ilha Solteira,True,10.4
+17/01/2021,2021-01-17,Parana,Itaipu,True,27.4
+17/01/2021,2021-01-17,Parana,Ivinhema,True,7.2
+17/01/2021,2021-01-17,Parana,Jupia,True,16.0
+17/01/2021,2021-01-17,Parana,Porto Primavera,True,28.6
+17/01/2021,2021-01-17,Parana,Porto Taquara,True,22.4
+17/01/2021,2021-01-17,Parana,Sao Domingos,True,10.7
+17/01/2021,2021-01-17,Paranaiba,Abaixo do Rio Verde,True,9.3
+17/01/2021,2021-01-17,Paranaiba,Corumba I,True,11.0
+17/01/2021,2021-01-17,Paranaiba,Corumba IV,True,10.0
+17/01/2021,2021-01-17,Paranaiba,Emborcacao,True,4.5
+17/01/2021,2021-01-17,Paranaiba,Espora,True,0.0
+17/01/2021,2021-01-17,Paranaiba,Foz do Rio Claro,True,7.6
+17/01/2021,2021-01-17,Paranaiba,Itumbiara,True,11.2
+17/01/2021,2021-01-17,Paranaiba,Nova Ponte,True,2.0
+17/01/2021,2021-01-17,Paranaiba,Serra do Facao,True,15.1
+17/01/2021,2021-01-17,Paranaiba,Salto do Rio Verdinho,True,12.1
+17/01/2021,2021-01-17,Paranaiba,Sao Simao,True,7.0
+17/01/2021,2021-01-17,Paranapanema,Chavantes,True,24.2
+17/01/2021,2021-01-17,Paranapanema,CanoasI,True,20.3
+17/01/2021,2021-01-17,Paranapanema,Capivara,True,37.9
+17/01/2021,2021-01-17,Paranapanema,Jurumirim,True,7.4
+17/01/2021,2021-01-17,Paranapanema,Maua,True,11.9
+17/01/2021,2021-01-17,Paranapanema,Rosana,True,20.0
+17/01/2021,2021-01-17,SaoFrancisco,Boqueirao,True,0.0
+17/01/2021,2021-01-17,SaoFrancisco,Queimado,True,16.1
+17/01/2021,2021-01-17,SaoFrancisco,Retiro Baixo,True,0.5
+17/01/2021,2021-01-17,SaoFrancisco,Sao Francisco,True,1.4
+17/01/2021,2021-01-17,SaoFrancisco,Sao Romao,True,1.3
+17/01/2021,2021-01-17,SaoFrancisco,TrAas Marias,True,6.9
+17/01/2021,2021-01-17,Tiete,Barra Bonita,True,3.3
+17/01/2021,2021-01-17,Tiete,Edgard de Souza,True,1.4
+17/01/2021,2021-01-17,Tiete,Ibitinga,True,9.2
+17/01/2021,2021-01-17,Tiete,Nova Avanhandava,True,23.5
+17/01/2021,2021-01-17,Tocantins,Conceicao do Araguaia,True,11.2
+17/01/2021,2021-01-17,Tocantins,Bandeirantes,True,9.5
+17/01/2021,2021-01-17,Tocantins,Lajeado,True,11.9
+17/01/2021,2021-01-17,Tocantins,Estreito,True,4.7
+17/01/2021,2021-01-17,Tocantins,Porto Real,True,4.1
+17/01/2021,2021-01-17,Tocantins,Serra da Mesa,True,10.0
+17/01/2021,2021-01-17,Tocantins,Tucurui,True,5.4
+17/01/2021,2021-01-17,Uruguai,Barra Grande,True,12.1
+17/01/2021,2021-01-17,Uruguai,Campos Novos,True,6.3
+17/01/2021,2021-01-17,Uruguai,Foz do Chapeco,True,27.0
+17/01/2021,2021-01-17,Uruguai,Ita,True,21.0
+17/01/2021,2021-01-17,Uruguai,Machadinho,True,16.7
+17/01/2021,2021-01-17,Uruguai,Monjolinho,True,13.2
+17/01/2021,2021-01-17,Uruguai,Passo Sao Joao,True,31.5
+17/01/2021,2021-01-17,Uruguai,Quebra Queixo,True,3.5

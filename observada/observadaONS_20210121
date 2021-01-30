@@ -1,0 +1,85 @@
+data,timeStamp,bacia,subBacia,fonte,avg
+21/01/2021,2021-01-21,Grande,Agua Vermelha,ons,1.0
+21/01/2021,2021-01-21,Grande,Capao Escuro,ons,0.01
+21/01/2021,2021-01-21,Grande,Camargos,ons,0.14
+21/01/2021,2021-01-21,Grande,Euclides da Cunha,ons,0.07
+21/01/2021,2021-01-21,Grande,Funil,ons,0.01
+21/01/2021,2021-01-21,Grande,Furnas,ons,0.07
+21/01/2021,2021-01-21,Grande,Marimbondo,ons,0.1
+21/01/2021,2021-01-21,Grande,Passagem,ons,0.23
+21/01/2021,2021-01-21,Grande,Paraguacu,ons,0.11
+21/01/2021,2021-01-21,Grande,Porto dos Buenos,ons,0.1
+21/01/2021,2021-01-21,Grande,Porto Colombia,ons,0.07
+21/01/2021,2021-01-21,Iguacu,Foz do Areia,ons,27.46
+21/01/2021,2021-01-21,Iguacu,Jordao Segredo,ons,21.17
+21/01/2021,2021-01-21,Iguacu,Santa Clara,ons,27.07
+21/01/2021,2021-01-21,Iguacu,Salto Caxias,ons,16.59
+21/01/2021,2021-01-21,Iguacu,Uniao da Vitoria,ons,28.38
+21/01/2021,2021-01-21,Madeira,AmaruMayu,ons,0.03
+21/01/2021,2021-01-21,Madeira,Dardanelos,ons,12.52
+21/01/2021,2021-01-21,Madeira,GuajaraMirim,ons,0.12
+21/01/2021,2021-01-21,Madeira,Guapore,ons,2.48
+21/01/2021,2021-01-21,Madeira,Jirau,ons,0.27
+21/01/2021,2021-01-21,Madeira,PrincipeDaBeira,ons,0.6
+21/01/2021,2021-01-21,Madeira,RondonII,ons,4.08
+21/01/2021,2021-01-21,Madeira,Samuel,ons,8.96
+21/01/2021,2021-01-21,Madeira,SantoAntonio,ons,2.89
+21/01/2021,2021-01-21,OSul,Castro Alves,ons,8.89
+21/01/2021,2021-01-21,OSul,C.Cachoeira,ons,1.71
+21/01/2021,2021-01-21,OSul,Dona Francisca,ons,0.2
+21/01/2021,2021-01-21,OSul,Ernestina,ons,4.62
+21/01/2021,2021-01-21,OSul,PassoReal,ons,1.11
+21/01/2021,2021-01-21,OSul,Salto Pilao,ons,24.42
+21/01/2021,2021-01-21,OSul,14 de Julho,ons,11.94
+21/01/2021,2021-01-21,Parana,Balsa Santa Maria,ons,10.64
+21/01/2021,2021-01-21,Parana,Florida Estrada,ons,5.42
+21/01/2021,2021-01-21,Parana,Fazenda Buriti,ons,5.56
+21/01/2021,2021-01-21,Parana,Ilha Solteira,ons,2.17
+21/01/2021,2021-01-21,Parana,Itaipu,ons,15.48
+21/01/2021,2021-01-21,Parana,Ivinhema,ons,10.06
+21/01/2021,2021-01-21,Parana,Jupia,ons,1.76
+21/01/2021,2021-01-21,Parana,Porto Primavera,ons,4.44
+21/01/2021,2021-01-21,Parana,Porto Taquara,ons,18.78
+21/01/2021,2021-01-21,Parana,Sao Domingos,ons,2.53
+21/01/2021,2021-01-21,Paranaiba,Abaixo do Rio Verde,ons,0.2
+21/01/2021,2021-01-21,Paranaiba,Corumba I,ons,0.14
+21/01/2021,2021-01-21,Paranaiba,Corumba IV,ons,0.04
+21/01/2021,2021-01-21,Paranaiba,Emborcacao,ons,0.0
+21/01/2021,2021-01-21,Paranaiba,Espora,ons,1.97
+21/01/2021,2021-01-21,Paranaiba,Foz do Rio Claro,ons,1.44
+21/01/2021,2021-01-21,Paranaiba,Itumbiara,ons,0.05
+21/01/2021,2021-01-21,Paranaiba,Nova Ponte,ons,0.0
+21/01/2021,2021-01-21,Paranaiba,Serra do Facao,ons,0.01
+21/01/2021,2021-01-21,Paranaiba,Salto do Rio Verdinho,ons,1.46
+21/01/2021,2021-01-21,Paranaiba,Sao Simao,ons,0.29
+21/01/2021,2021-01-21,Paranapanema,Chavantes,ons,2.91
+21/01/2021,2021-01-21,Paranapanema,CanoasI,ons,1.65
+21/01/2021,2021-01-21,Paranapanema,Capivara,ons,3.47
+21/01/2021,2021-01-21,Paranapanema,Jurumirim,ons,5.02
+21/01/2021,2021-01-21,Paranapanema,Maua,ons,18.29
+21/01/2021,2021-01-21,Paranapanema,Rosana,ons,11.31
+21/01/2021,2021-01-21,SaoFrancisco,Boqueirao,ons,0.52
+21/01/2021,2021-01-21,SaoFrancisco,Queimado,ons,0.01
+21/01/2021,2021-01-21,SaoFrancisco,Retiro Baixo,ons,0.0
+21/01/2021,2021-01-21,SaoFrancisco,Sao Francisco,ons,0.01
+21/01/2021,2021-01-21,SaoFrancisco,Sao Romao,ons,0.0
+21/01/2021,2021-01-21,SaoFrancisco,TrAas Marias,ons,0.0
+21/01/2021,2021-01-21,Tiete,Barra Bonita,ons,1.62
+21/01/2021,2021-01-21,Tiete,Edgard de Souza,ons,0.41
+21/01/2021,2021-01-21,Tiete,Ibitinga,ons,0.56
+21/01/2021,2021-01-21,Tiete,Nova Avanhandava,ons,0.83
+21/01/2021,2021-01-21,Tocantins,Conceicao do Araguaia,ons,2.06
+21/01/2021,2021-01-21,Tocantins,Bandeirantes,ons,1.59
+21/01/2021,2021-01-21,Tocantins,Lajeado,ons,1.6
+21/01/2021,2021-01-21,Tocantins,Estreito,ons,3.61
+21/01/2021,2021-01-21,Tocantins,Porto Real,ons,7.13
+21/01/2021,2021-01-21,Tocantins,Serra da Mesa,ons,0.81
+21/01/2021,2021-01-21,Tocantins,Tucurui,ons,6.71
+21/01/2021,2021-01-21,Uruguai,Barra Grande,ons,26.58
+21/01/2021,2021-01-21,Uruguai,Campos Novos,ons,12.1
+21/01/2021,2021-01-21,Uruguai,Foz do Chapeco,ons,8.68
+21/01/2021,2021-01-21,Uruguai,Ita,ons,8.31
+21/01/2021,2021-01-21,Uruguai,Machadinho,ons,10.01
+21/01/2021,2021-01-21,Uruguai,Monjolinho,ons,6.67
+21/01/2021,2021-01-21,Uruguai,Passo Sao Joao,ons,0.43
+21/01/2021,2021-01-21,Uruguai,Quebra Queixo,ons,6.58
